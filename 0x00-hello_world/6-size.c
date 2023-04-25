@@ -7,11 +7,11 @@
  */
 int main(void)
 {
-        int c = (a);
-        int t = (b);
-        int lt = (c);
-        int llt = (d);
-        int f = (e);
+        char a;
+	int b;
+	long int c;
+	long long int d;
+	float e;
         ptintf("Size of a char: %d byte(s), (unsigned long)sizeof (a));
         ptintf("Size of a int: %d byte(s), (unsigned long)sizeof (b));
         ptintf("Size of a long int: %d byte(s), (unsigned long)sizeof (c));
