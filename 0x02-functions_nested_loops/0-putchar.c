@@ -1,12 +1,11 @@
-#include <stdio.h> 
+#include <stdio.h>
 /**
- * main - entry point
+ * main - check the code
  *
  * return:always 0 (success)
  */
-int main (void)
+int main(void)
 {
-	printf("_putchar");
-	printf("/n");
+	puts("_putchar");
 	return (0);
 }
