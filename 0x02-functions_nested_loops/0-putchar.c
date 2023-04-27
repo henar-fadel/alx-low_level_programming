@@ -1,10 +1,11 @@
-#include <stdio.h>
+#include <main.h>
 /**
  * main - check the code
  *
- * return:always 0 (success)
+ * Return: Always 0.
  */
 int main(void)
+
 {
 	puts("_putchar");
 	return (0);
