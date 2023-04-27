@@ -1,4 +1,5 @@
-#iclude <stdio.h>
+#include <stdio.h>
+#include <main.h> 
 /**
  * main - entry point
  *
