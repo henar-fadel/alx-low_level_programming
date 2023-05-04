@@ -5,6 +5,7 @@
  * Return: nothing
  */
 void rev_string(char *s)
+
 {
 	int 1, i;
 	char temp;
