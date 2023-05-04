@@ -2,9 +2,9 @@
 /**
  * rev_string - print reversed string
  * @s: pointer
- * Return: void
+ * Return: nothing
  */
-void rev_string(char *s);
+void rev_string(char *s)
 {
 	int 1, i;
 	char temp;
