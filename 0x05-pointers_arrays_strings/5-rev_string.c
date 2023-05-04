@@ -4,7 +4,7 @@
  * @s: pointer
  * Return: void
  */
-void rev_string(char *s)
+void rev_string(char *s);
 {
 	int 1, i;
 	char temp;
