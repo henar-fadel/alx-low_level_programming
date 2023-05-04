@@ -4,6 +4,7 @@
  * @s: pointer
  * Return: nothing
  */
+
 void rev_string(char *s)
 
 {
