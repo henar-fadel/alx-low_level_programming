@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * rot13 - encodes astring
- * @str: input astring
+ * @s: input astring
  * Return: encoded a string
  */
 char *rot13(char *)
@@ -9,7 +9,7 @@ char *rot13(char *)
 {
 	int i;
 	char rot13[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
-	char ROT13[] = "nopqrstuvwxyzabcdrfghijklmNOPQRSTUVWXYZABCDEFGHIJKLM";
+	char ROT13[] = "nopqrstuvwxyzabcdefghijklmNOPQRSTUVWXYZABCDEFGHIJKLM";
 	char *ptr = s;
 
 	while (*s)
