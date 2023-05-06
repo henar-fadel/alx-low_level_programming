@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * infinite_add - adds 2 numbers
+ * infinite_add - adds tow numbers
  * @n1: first num
  * @n2: sec num
  * @r: result
