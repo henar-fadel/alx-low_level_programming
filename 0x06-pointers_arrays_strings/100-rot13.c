@@ -4,8 +4,7 @@
  * @s: input astring
  * Return: encoded a string
  */
-char *rot13(char *)
-
+char *rot13(char *s)
 {
 	int i;
 	char rot13[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
